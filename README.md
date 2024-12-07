@@ -6,4 +6,4 @@
 
 <h1>Quy trình làm việc</h1>
 <p>- main: Chứa mã nguồn đã hoàn chỉnh và được kiểm tra.</p>
-<p>- master: Lưu trữ các cập nhật tiến trình, bao gồm các tính năng chưa hoàn thiện hoặc đang thử nghiệm.</p>
+<p>- Nhom3 & master: Lưu trữ các cập nhật tiến trình, bao gồm các tính năng chưa hoàn thiện hoặc đang thử nghiệm.</p>
