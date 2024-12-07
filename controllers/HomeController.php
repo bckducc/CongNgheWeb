@@ -10,7 +10,7 @@ class HomeController {
         $categories = $categoryModel->getAll();
         include 'views/home/index.php';
     }
-    #ham
+
     public function search() {
         if (isset($_GET['keyword'])) {
             $keyword = $_GET['keyword'];
